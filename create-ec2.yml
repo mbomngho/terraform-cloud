@@ -18,5 +18,6 @@
           assign_public_ip: yes
           wait: true
           count: 1
+          #done this day by Lionel
           
 
